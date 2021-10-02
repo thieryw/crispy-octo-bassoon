@@ -1,2 +1,0 @@
-(this["webpackJsonpcrispy-octo-bassoon"]=this["webpackJsonpcrispy-octo-bassoon"]||[]).push([[0],{4:function(o,e,s){"use strict";s.r(e);var t=s(0),c=s.n(t),n=s(3),r=s.n(n),i=s(2);r.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)("h1",{children:"Hello World"})}),document.getElementById("root"))}},[[4,1,2]]]);
-//# sourceMappingURL=main.293d2046.chunk.js.map
