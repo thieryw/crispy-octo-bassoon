@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crispy-octo-bassoon/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/crispy-octo-bassoon/static/js/main.ba068ba0.chunk.js",
+    "main.js.map": "/crispy-octo-bassoon/static/js/main.ba068ba0.chunk.js.map",
+    "runtime-main.js": "/crispy-octo-bassoon/static/js/runtime-main.4dba79b0.js",
+    "runtime-main.js.map": "/crispy-octo-bassoon/static/js/runtime-main.4dba79b0.js.map",
+    "static/js/2.8efdbeb5.chunk.js": "/crispy-octo-bassoon/static/js/2.8efdbeb5.chunk.js",
+    "static/js/2.8efdbeb5.chunk.js.map": "/crispy-octo-bassoon/static/js/2.8efdbeb5.chunk.js.map",
+    "static/js/3.937b510f.chunk.js": "/crispy-octo-bassoon/static/js/3.937b510f.chunk.js",
+    "static/js/3.937b510f.chunk.js.map": "/crispy-octo-bassoon/static/js/3.937b510f.chunk.js.map",
+    "index.html": "/crispy-octo-bassoon/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/crispy-octo-bassoon/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8efdbeb5.chunk.js.LICENSE.txt": "/crispy-octo-bassoon/static/js/2.8efdbeb5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/crispy-octo-bassoon/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dba79b0.js",
+    "static/js/2.8efdbeb5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ba068ba0.chunk.js"
+  ]
+}
