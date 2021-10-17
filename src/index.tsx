@@ -6,10 +6,12 @@ import { GlArticle } from "gitlanding/GlArticle";
 import { GlIllustration } from "gitlanding/GlIllustration";
 import { GlFooter } from "gitlanding/GlFooter";
 import {GlSectionDivider} from "gitlanding/GlSectionDivider";
+import { ThemeProvider } from "./theme";
 
 function App() {
   return (
     <GlTemplate
+      ThemeProvider={ThemeProvider}
       header={
         <GlHeader
           title="Header title"
