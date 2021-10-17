@@ -1,2 +1,0 @@
-(this["webpackJsonpcrispy-octo-bassoon"]=this["webpackJsonpcrispy-octo-bassoon"]||[]).push([[45],{590:function(s,t,o){"use strict";function i(s){s.languages.git={comment:/^#.*/m,deleted:/^[-\u2013].*/m,inserted:/^\+.*/m,string:/("|')(?:\\.|(?!\1)[^\\\r\n])*\1/m,command:{pattern:/^.*\$ git .*$/m,inside:{parameter:/\s--?\w+/m}},coord:/^@@.*@@$/m,commit_sha1:/^commit \w{40}$/m}}s.exports=i,i.displayName="git",i.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_git.d103e105.chunk.js.map
