@@ -1,0 +1,2 @@
+(this["webpackJsonpcrispy-octo-bassoon"]=this["webpackJsonpcrispy-octo-bassoon"]||[]).push([[106],{645:function(s,t,n){"use strict";function o(s){s.languages.properties={comment:/^[ \t]*[#!].*$/m,"attr-value":{pattern:/(^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?: *[=:] *| ))(?:\\(?:\r\n|[\s\S])|[^\\\r\n])+/m,lookbehind:!0},"attr-name":/^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?= *[=:] *| )/m,punctuation:/[=:]/}}s.exports=o,o.displayName="properties",o.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_properties.84f77912.chunk.js.map
