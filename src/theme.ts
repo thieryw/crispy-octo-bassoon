@@ -25,6 +25,13 @@ export const { ThemeProvider, useTheme } = createThemeProvider({
 				"subtitle": {
 					...typographyDesc.variants["subtitle"],
 					"fontFamily": '"Open Sans", sans-serif'
+				},
+				"My title": {
+					"htmlComponent": "h1",
+					"fontWeight": "bold",
+					"fontSizeRem": 2,
+					"lineHeightRem": 2,
+					"fontFamily": '"Cinzel Decorative", cursive'
 				}
 			}
 		}
