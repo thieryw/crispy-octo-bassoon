@@ -1,2 +1,0 @@
-(this["webpackJsonpcrispy-octo-bassoon"]=this["webpackJsonpcrispy-octo-bassoon"]||[]).push([[60],{609:function(t,s,n){"use strict";function o(t){t.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}t.exports=o,o.displayName="ini",o.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini.cac9e2e9.chunk.js.map
