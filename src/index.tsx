@@ -1,11 +1,7 @@
 import { render } from "react-dom";
 import { GlTemplate } from "gitlanding/GlTemplate";
 import { GlHeader } from "gitlanding/GlHeader";
-import { GlHero } from "gitlanding/GlHero";
-import { GlArticle } from "gitlanding/GlArticle";
-import { GlIllustration } from "gitlanding/GlIllustration";
 import { GlFooter } from "gitlanding/GlFooter";
-import {GlSectionDivider} from "gitlanding/GlSectionDivider";
 import { ThemeProvider } from "./theme";
 
 function App() {
@@ -39,7 +35,7 @@ function App() {
         "isRetracted": "smart",
       }}
       footer={
-        <GlFooter 
+        <GlFooter
           bottomDivContent="Licence M I T"
           email="email@email.com"
           phoneNumber="+33545345676"
@@ -60,45 +56,12 @@ function App() {
         />
       }
     >
-      <GlHero
-        title="Hero title"
-        subTitle={"Hero subtitle"}
-        imageSrc="https://user-images.githubusercontent.com/39378411/135731749-4a723d4e-52ea-49b7-83c1-7da4db8f3f59.png"
-        linkToSectionBelowId="firstSection"
-      />
-
-      <GlArticle
-        id="firstSection"
-        title="Article title"
-        body="Article body"
-        buttonLabel="Article Button label"
-        buttonLink={{
-          "href": "https://example.com",
-        }}
-        illustration={
-          <GlIllustration type="image" url="https://user-images.githubusercontent.com/39378411/135731808-6cf3e4dd-1047-4a0a-95be-65fdd6947315.png" />
-        }
-        hasAnimation={true}
-        illustrationPosition="left"
-      />
-
-      <GlSectionDivider />
-
-      <GlArticle
-        title="Article title"
-        body="Article body"
-        buttonLabel="Article Button label"
-        buttonLink={{
-          "href": "https://example.com",
-        }}
-        illustration={
-          <GlIllustration type="image" url="https://user-images.githubusercontent.com/39378411/135731816-5ba39459-d95e-413d-b515-92a7b0dc5acf.png" />
-        }
-        hasAnimation={true}
-      />
 
     </GlTemplate>
   );
 }
 
-render(<App />, document.getElementById("root"));
+render(
+  <App />,
+  document.getElementById("root")
+);
