@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/crispy-octo-bassoon/static/js/main.3209ac2c.chunk.js",
-    "main.js.map": "/crispy-octo-bassoon/static/js/main.3209ac2c.chunk.js.map",
+    "main.js": "/crispy-octo-bassoon/static/js/main.49542294.chunk.js",
+    "main.js.map": "/crispy-octo-bassoon/static/js/main.49542294.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/crispy-octo-bassoon/static/js/react-syntax-highlighter_languages_refractor_abap.77f9521a.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/crispy-octo-bassoon/static/js/react-syntax-highlighter_languages_refractor_abap.77f9521a.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/crispy-octo-bassoon/static/js/react-syntax-highlighter_languages_refractor_actionscript.47398a61.chunk.js",
@@ -317,6 +317,6 @@
   "entrypoints": [
     "static/js/runtime-main.9f913a8a.js",
     "static/js/153.017f9a4c.chunk.js",
-    "static/js/main.3209ac2c.chunk.js"
+    "static/js/main.49542294.chunk.js"
   ]
 }
