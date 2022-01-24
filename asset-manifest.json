@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/crispy-octo-bassoon/static/js/main.2f14f377.chunk.js",
-    "main.js.map": "/crispy-octo-bassoon/static/js/main.2f14f377.chunk.js.map",
+    "main.js": "/crispy-octo-bassoon/static/js/main.7a130fef.chunk.js",
+    "main.js.map": "/crispy-octo-bassoon/static/js/main.7a130fef.chunk.js.map",
     "runtime-main.js": "/crispy-octo-bassoon/static/js/runtime-main.3a4fd783.js",
     "runtime-main.js.map": "/crispy-octo-bassoon/static/js/runtime-main.3a4fd783.js.map",
-    "static/js/2.f76173cb.chunk.js": "/crispy-octo-bassoon/static/js/2.f76173cb.chunk.js",
-    "static/js/2.f76173cb.chunk.js.map": "/crispy-octo-bassoon/static/js/2.f76173cb.chunk.js.map",
+    "static/js/2.4ab65dec.chunk.js": "/crispy-octo-bassoon/static/js/2.4ab65dec.chunk.js",
+    "static/js/2.4ab65dec.chunk.js.map": "/crispy-octo-bassoon/static/js/2.4ab65dec.chunk.js.map",
     "index.html": "/crispy-octo-bassoon/index.html",
-    "static/js/2.f76173cb.chunk.js.LICENSE.txt": "/crispy-octo-bassoon/static/js/2.f76173cb.chunk.js.LICENSE.txt"
+    "static/js/2.4ab65dec.chunk.js.LICENSE.txt": "/crispy-octo-bassoon/static/js/2.4ab65dec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a4fd783.js",
-    "static/js/2.f76173cb.chunk.js",
-    "static/js/main.2f14f377.chunk.js"
+    "static/js/2.4ab65dec.chunk.js",
+    "static/js/main.7a130fef.chunk.js"
   ]
 }
