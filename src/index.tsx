@@ -8,6 +8,7 @@ import { Home } from "./pages/Home";
 import { Page1 } from "./pages/Page1";
 import { Page2 } from "./pages/Page2";
 import { Page3 } from "./pages/Page3";
+import { css } from "tss-react/@emotion/css";
 
 function App() {
     const route = useRoute();
@@ -16,6 +17,17 @@ function App() {
             ThemeProvider={ThemeProvider}
             header={
                 <GlHeader
+                    className={css({
+                        "borderBottom": "solid grey 1px"
+                    })}
+                    classes={{
+                        "link": css({
+                            "fontWeight": "bold"
+                        }),
+                        "darkModeSwitch": css({
+                            "border": "solid grey 2px"
+                        })
+                    }}
                     title={
                         <a {...routes.home().link}>
                             <h1>header Title</h1>
