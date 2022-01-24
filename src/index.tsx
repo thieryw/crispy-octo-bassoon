@@ -58,6 +58,21 @@ function App() {
             }}
             footer={
                 <GlFooter
+                    className={css({
+                        "borderTop": "solid grey 1px",
+                    })}
+                    classes={{
+                        "bottomDiv": css({
+                            "border": "none"
+                        }),
+                        "link": css({
+                            "color": "orange"
+                        }),
+                        "info": css({
+                            "borderTop": "solid gray 1px",
+                            "borderBottom": "solid gray 1px"
+                        })
+                    }}
                     bottomDivContent="Licence M I T"
                     email="email@email.com"
                     phoneNumber="+33545345676"
