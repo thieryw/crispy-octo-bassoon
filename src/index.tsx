@@ -21,7 +21,7 @@ function App() {
                         "borderBottom": "solid grey 1px"
                     })}
                     classes={{
-                        "link": css({
+                        "linkWrapper": css({
                             "fontWeight": "bold"
                         }),
                         "darkModeSwitch": css({
